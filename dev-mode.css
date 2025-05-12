@@ -1,0 +1,15 @@
+.dev-mode-notice {
+  margin: 15px 0;
+  padding: 10px;
+  background-color: #fff3cd;
+  border: 1px solid #ffeeba;
+  border-radius: 4px;
+  color: #856404;
+  text-align: center;
+}
+
+.dev-mode-notice p {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+} 
